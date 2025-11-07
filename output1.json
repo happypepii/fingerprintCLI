@@ -1,0 +1,18 @@
+{
+  "name": "cv-02-YY-LineCounterXUnitIntegrationTests.zip",
+  "total_files": 12,
+  "files": [
+    "cv-02-YY-LineCounterXUnitIntegrationTests/",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/Hamlet.txt",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/LineCounter.csproj",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/Program.cs",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/Properties/",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter/Properties/launchSettings.json",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounterXUnitIntegrationTests.sln",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter_IntegrationTests/",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter_IntegrationTests/CorrectInputTests.cs",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter_IntegrationTests/LineCounter_IntegrationTests.csproj",
+    "cv-02-YY-LineCounterXUnitIntegrationTests/LineCounter_IntegrationTests/Usings.cs"
+  ]
+}

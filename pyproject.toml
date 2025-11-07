@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fingerprintcli"
+version = "0.1.0"
+description = ""
+authors = ["Pei-Han Jiang <peihan945@gmail.com>"]
+readme = "README.md"
+packages = [{include = "fingerprintcli", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+click = "^8.3.0"
+
+[tool.poetry.scripts]
+fingerprintcli = "fingerprintcli.cli:cli"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
